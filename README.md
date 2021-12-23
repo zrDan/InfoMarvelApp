@@ -12,7 +12,8 @@ Marvel Info is an app that provide information about movies, series and upcoming
 ![marvel_series](https://user-images.githubusercontent.com/42875282/147278233-949d39fa-0649-49b1-9586-d3cfdea9f1ff.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![marvel_upcoming](https://user-images.githubusercontent.com/42875282/147278543-bcc73335-2bad-43ba-9175-0a979c888fb4.png)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![marvel_movies_preview](https://user-images.githubusercontent.com/42875282/147279816-b5e8e2b5-ae35-422a-996d-ff47aabbca2c.png)
 
 
