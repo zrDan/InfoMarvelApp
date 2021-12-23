@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/drawable/ic_connection_error.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/drawable/item_selector.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/drawable/loading_img.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/font/font.xml" value="0.234375" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/font/marvel.xml" value="0.234375" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/activity_description.xml" value="0.22" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/activity_section.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/fragment_description.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/fragment_movies.xml" value="0.22" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/fragment_series.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/fragment_upcoming.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/gallery_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/poster_item.xml" value="0.18" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/layout/poster_upcoming_item.xml" value="0.18" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/menu/bottom_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/menu/mid_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/Marvel/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/app/src/main/res/drawable/gradient.xml" value="0.2203125" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/app/src/main/res/layout/activity_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Dgtxz/Documents/Tech Stuff/Projects/Apps/app/src/main/res/layout/activity_section.xml" value="0.19010416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

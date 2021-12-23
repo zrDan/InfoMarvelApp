@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Info Marvel</string>
+    <string name="peliculas">Peliculas</string>
+    <string name="series">Series</string>
+    <string name="universo_orden">UCM en Orden</string>
+    <string name="orden">En Orden</string>
+    <string name="proximanente">Proximamente</string>
+    <string name="inicion">Inicio</string>
+    <string name="buscar">Buscar</string>
+    <string name="galeria">Galeria</string>
+    <string name="director">Director</string>
+    <string name="estreno">Estreno</string>
+    <string name="duracion">Duración</string>
+    <string name="capitulos">Capitulos</string>
+    <string name="temporadas">Temporadas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_header">Información de peliculas, series y estrenos de Marvel.</string>
+</resources>

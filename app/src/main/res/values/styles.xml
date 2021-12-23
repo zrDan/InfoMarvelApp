@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="menu">
+        <item name="android:background">@color/darkest_blue</item>
+        <item name="itemIconTint">@drawable/item_selector</item>
+        <item name="itemTextColor">@drawable/item_selector</item>
+    </style>
+
+    <style name="section_header">
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/peach</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+</resources>
